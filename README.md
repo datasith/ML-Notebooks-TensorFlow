@@ -15,7 +15,7 @@ Inspired by [@DAIR.AI](https://github.com/dair-ai/ML-Notebooks)'s fantastic coll
     <td class="tg-yw4l">Introduction to Computational Graphs</td>
     <td class="tg-yw4l">A basic tutorial to learn about computational graphs</td>
     <td class="tg-yw4l"><a href="">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = "" >
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = "https://colab.research.google.com/drive/19KuMb6XQV3LrqOindk8FUmzmxs5dwFhI#scrollTo=hw4sYNoc7wjq" >
 </a></td>
   </tr> 
 </table> 
