@@ -1,6 +1,8 @@
 # 🐙 ML Notebooks (TensorFlow)
 
-Inspired by [@DAIR.AI](https://github.com/dair-ai/ML-Notebooks)'s fantastic collection of Machine Learning notebooks, this repository contains the TensorFlow implementation of their Notebooks. These contain code examples for all sorts of machine learning tasks and applications. The notebooks are meant to be minimal and easily reusable and extendable. You are free to use them for educational and research purposes.
+Inspired by [@DAIR.AI](https://github.com/dair-ai/)'s fantastic collection of [Machine Learning notebooks](https://github.com/dair-ai/ML-Notebooks), this repository contains the [TensorFlow](https://tensorflow.org/) implementation of their code, which is currently implemented using [PyTorch](https://pytorch.org/). 
+
+These notebooks contain code examples for all sorts of machine learning tasks and applications. They are meant to be minimal and easily reusable and extendable, thus are encouraged to use them for educational and research purposes.
 
 ## Getting Started
 
