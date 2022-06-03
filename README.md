@@ -27,6 +27,14 @@ These notebooks contain code examples for all sorts of machine learning tasks an
       <img src="https://colab.research.google.com/assets/colab-badge.svg" width="" >
     </a></td>
   </tr>  
+  
+  <tr>
+    <td class="tg-yw4l">A Gentle Introduction to TensorFlow</td>
+    <td class="tg-yw4l">A detailed explanation introducing TensorFlow concepts	</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/datasith/ML-Notebooks-TensorFlow/blob/main/A_Gentle_Introduction_to_TensorFlow.ipynb">
+      <img src="https://colab.research.google.com/assets/colab-badge.svg" width="" >
+    </a></td>
+  </tr>    
 </table> 
  
 If you find any bugs or have any questions regarding these notebooks, please open an issue. I'll address it as soon as I can. 
