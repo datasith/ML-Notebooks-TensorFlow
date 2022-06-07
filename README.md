@@ -54,6 +54,8 @@ These notebooks contain code examples for all sorts of machine learning tasks an
   </tr>
 </table>
 
+---
+
 If you find any bugs or have any questions regarding these notebooks, please open an issue. I'll address it as soon as I can. 
 
 Reach out on [Twitter](https://twitter.com/datasith) if you have any questions. 
