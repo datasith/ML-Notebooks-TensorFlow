@@ -61,11 +61,12 @@ If you find any bugs or have any questions regarding these notebooks, please ope
 Reach out on [Twitter](https://twitter.com/datasith) if you have any questions. 
 
 Please cite the following if you use the code examples in your research:
-```
+```bibtex
 @misc{zabala2022ml,
-  title={ML Notebooks (TensorFlow)},
-  author={Zabala, Francisco},
-  journal={https://github.com/datasith/ML-Notebooks-TF},
-  year={2022}
+  author    = {Zabala, Francisco},
+  title     = {ML Notebooks (TensorFlow)},
+  journal   = {GitHub},
+  year      = {2022},
+  url       = {https://github.com/datasith/ML-Notebooks-TensorFlow},
 }
 ```
