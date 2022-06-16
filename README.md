@@ -52,6 +52,14 @@ These notebooks contain code examples for all sorts of machine learning tasks an
       <img src="https://colab.research.google.com/assets/colab-badge.svg" width="" >
     </a></td>
   </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Image Classification using CNNs (AlexNet)</td>
+    <td class="tg-yw4l">An implementation of the well-known AlexNet Network (2012) for classifying hot dog images</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/datasith/ML-Notebooks-TensorFlow/blob/main/Image_Classification_AlexNet.ipynb">
+      <img src="https://colab.research.google.com/assets/colab-badge.svg" width="" >
+    </a></td>
+  </tr>  
 </table>
 
 ---
