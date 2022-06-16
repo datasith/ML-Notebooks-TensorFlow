@@ -46,8 +46,8 @@ These notebooks contain code examples for all sorts of machine learning tasks an
   </tr>
   
   <tr>
-    <td class="tg-yw4l">Siamese Networks</td>
-    <td class="tg-yw4l">An implementation of a Siamese Network for calculating Image Similarity</td>
+    <td class="tg-yw4l">Image Similarity</td>
+    <td class="tg-yw4l">An implementation of a Siamese Network for calculating Image Similarity scores using <i>contrastive loss</i></td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/github/datasith/ML-Notebooks-TensorFlow/blob/main/Siamese_Network_Image_Similarity.ipynb">
       <img src="https://colab.research.google.com/assets/colab-badge.svg" width="" >
     </a></td>
