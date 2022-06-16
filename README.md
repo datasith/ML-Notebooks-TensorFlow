@@ -52,14 +52,6 @@ These notebooks contain code examples for all sorts of machine learning tasks an
       <img src="https://colab.research.google.com/assets/colab-badge.svg" width="" >
     </a></td>
   </tr>
-  
-  <tr>
-    <td class="tg-yw4l">Variational Autoencoders (VAEs)</td>
-    <td class="tg-yw4l">An implementation of a Variational Autoencoder to augment handwritten digits (MNIST)</td>
-    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/datasith/ML-Notebooks-TensorFlow/blob/main/Variational_Autoencoders.ipynb">
-      <img src="https://colab.research.google.com/assets/colab-badge.svg" width="" >
-    </a></td>
-  </tr>  
 </table>
 
 ---
