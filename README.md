@@ -59,7 +59,15 @@ These notebooks contain code examples for all sorts of machine learning tasks an
     <td class="tg-yw4l"><a href="https://colab.research.google.com/github/datasith/ML-Notebooks-TensorFlow/blob/main/Image_Classification_AlexNet.ipynb">
       <img src="https://colab.research.google.com/assets/colab-badge.svg" width="" >
     </a></td>
-  </tr>  
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Object Detection using CNNs (YOLOv3)</td>
+    <td class="tg-yw4l">An implementation of the well-known YOLO single-stage detector (2015) for object detection</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/datasith/ML-Notebooks-TensorFlow/blob/main/Object_Detection_YOLO.ipynb">
+      <img src="https://colab.research.google.com/assets/colab-badge.svg" width="" >
+    </a></td>
+  </tr>    
 </table>
 
 ---
